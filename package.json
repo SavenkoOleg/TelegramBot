@@ -1,0 +1,38 @@
+{
+  "name": "telegram-shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Oleg Savenko",
+  "license": "ISC",
+  "dependencies": {
+    "@2bad/bitrix": "^2.3.1",
+    "bull": "^3.18.1",
+    "express": "^4.17.1",
+    "imgbb-uploader": "^1.1.0",
+    "mongoose": "^5.10.9",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.6",
+    "redis": "^3.0.2",
+    "telegraf": "^3.38.0",
+    "xls-parser": "^3.1.0",
+    "yandex-checkout": "^1.0.13"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SavenkoOleg/shop-tg-add-channel.git"
+  },
+  "keywords": [
+    "telegraf",
+    "mongodb",
+    "mongoose"
+  ],
+  "bugs": {
+    "url": "https://github.com/SavenkoOleg/shop-tg-add-channel/issues"
+  },
+  "homepage": "https://github.com/SavenkoOleg/shop-tg-add-channel#readme",
+  "description": ""
+}
